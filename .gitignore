@@ -23,6 +23,8 @@ src/tools/CoreNLP/stanford-corenlp/
 # Autophrase Bin & Data
 src/tools/AutoPhrase/bin/
 src/tools/AutoPhrase/data/
+src/tools/AutoPhrase/tmp/
+src/tools/AutoPhrase/models/
 
 # word2vec Bin
 src/tools/word2vec/bin/
