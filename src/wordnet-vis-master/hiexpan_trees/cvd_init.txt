@@ -1,0 +1,12 @@
+0	*/cardiovascular_abnormalities	NA
+1	*/cardiovascular_abnormalities/turner_syndrome	NA
+2	*/cardiovascular_abnormalities/tetralogy_of_fallot	NA
+3	*/cardiovascular_abnormalities/noonan_syndrome	NA
+4	*/vascular_diseases	NA
+5	*/vascular_diseases/arteriovenous_malformations	NA
+6	*/vascular_diseases/high-blood_pressure	NA
+7	*/vascular_diseases/arterial_occlusions	NA
+8	*/heart-disease	NA
+9	*/heart-disease/aortic-valve_stenosis	NA
+10	*/heart-disease/cardiac_arrests	NA
+11	*/heart-disease/carcinoid_heart_disease	NA

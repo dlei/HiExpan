@@ -1,0 +1,14 @@
+1	*/computer_science	NA
+2	*/machine_learning	NA
+3	*/data_mining	NA
+4	*/information_retrieval	NA
+5	*/natural_language_processing	NA
+6	*/machine_learning/supervised_learning	NA
+7	*/machine_learning/unsupervised_learning	NA
+8	*/machine_learning/reinforecement_learning	NA
+9	*/data_mining/pattern_mining	NA
+10	*/data_mining/graph_mining	NA
+11	*/data_mining/text_mining	NA
+12	*/information_retrieval/document_retrieval	NA
+13	*/information_retrieval/query_expansion	NA
+14	*/information_retrieval/personal_search	NA

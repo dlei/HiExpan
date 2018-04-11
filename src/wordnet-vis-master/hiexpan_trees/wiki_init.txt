@@ -1,0 +1,9 @@
+0	*/united_states	NA
+1	*/united_states/california	NA
+2	*/united_states/illinois	NA
+3	*/united_states/florida	NA
+4	*/china	NA
+5	*/china/shandong	NA
+6	*/china/zhejiang	NA
+7	*/china/sichuan	NA
+8	*/canada	NA

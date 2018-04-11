@@ -1,0 +1,7 @@
+pycorenlp
+textblob
+numpy
+scipy
+inflection
+editdistance
+

@@ -1,0 +1,5 @@
+eid=12293	ename=qos requirements	confidence_score=-0.738320419991
+eid=12807	ename=regulatory modules	confidence_score=-0.061782818396
+eid=4101	ename=dna-binding proteins	confidence_score=-0.0684072588889
+eid=5662	ename=functional elements	confidence_score=-0.061518908208
+eid=4104	ename=dna copy number	confidence_score=-0.112906706536

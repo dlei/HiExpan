@@ -1,0 +1,139 @@
+cardiovascular abnormalities	aortic valvular stenosis
+cardiovascular abnormalities	digeorge syndrome
+cardiovascular abnormalities	marfan syndrome
+cardiovascular abnormalities	pulmonary vein atresia
+vascular diseases	mycotic aneurysms
+vascular diseases	vascular malformations
+vascular diseases	embolic events
+vascular diseases	atheromatous disease
+vascular diseases	severe tr
+vascular diseases	air bubbles
+vascular diseases	large arteries
+vascular diseases	medulloblastoma
+vascular diseases	aneurysmal rupture
+vascular diseases	severe aortic stenosis
+vascular diseases	pulmonary hypertension
+vascular diseases	rheumatic diseases
+vascular diseases	intermittent claudication
+vascular diseases	valvar aortic stenosis
+vascular diseases	stroke/transient ischemic attack
+vascular diseases	diaphragmatic paralysis
+vascular diseases	vascular events
+vascular diseases	contrast-induced nephropathy
+vascular diseases	renal artery stenosis
+vascular diseases	coronary ectasia
+vascular diseases	atrial fibrillations
+vascular diseases	myocardial infarctions
+vascular diseases	deep hypothermic circulatory arrest
+vascular diseases	anticoagulant therapy
+vascular diseases	cardiocirculatory arrest
+vascular diseases	community acquired
+vascular diseases	intraplaque hemorrhage
+vascular diseases	calcium-antagonists
+vascular diseases	neurologic deficits
+vascular diseases	lesion morphology
+vascular diseases	chiari network
+vascular diseases	effective anticoagulation
+vascular diseases	vessel recanalization
+vascular diseases	atrial myxomas
+vascular diseases	cerebrovascular diseases
+vascular diseases	plaque debris
+vascular diseases	spontaneous echo contrast
+vascular diseases	severe mitral regurgitation
+vascular diseases	typically developing children
+vascular diseases	connective tissue disorders
+vascular diseases	asphyxial cardiac arrest
+vascular diseases	infectious agents
+vascular diseases	perivalvular abscess
+vascular diseases	coronary-artery disease
+vascular diseases	giant left atrium
+vascular diseases	carotid stenosis
+vascular diseases	carotid artery stenosis
+vascular diseases	pulmonary agenesis
+heart-disease	congenital hypothyroidism
+heart-disease	scimitar syndrome
+heart-disease	turbulent blood flow
+heart-disease	dobutamine infusion
+heart-disease	heart defects
+heart-disease	infective endocarditis
+heart-disease	left-sided obstructive lesions
+heart-disease	repaired tetralogy of fallot
+heart-disease	hypertrophic cardiomyopathy
+heart-disease	endomyocardial fibrosis
+heart-disease	neurological abnormalities
+heart-disease	thromboembolic phenomena
+heart-disease	birth asphyxia
+heart-disease	acute rheumatic carditis
+heart-disease	pulmonary thromboembolism
+heart-disease	pediatric cardiac arrest
+heart-disease	cardiac tumours
+heart-disease	cardiac amyloidosis
+heart-disease	total knee arthroplasty
+heart-disease	developmental disorders
+heart-disease	hearing loss
+cardiovascular diseases	parasympathetic tone
+cardiovascular diseases	heart-disease
+cardiovascular diseases	silent ischemia
+cardiovascular diseases	cardiac dysfunction
+cardiovascular diseases	diastolic dysfunction
+cardiovascular diseases	west africa
+cardiovascular diseases	brain natriuretic peptides
+cardiovascular diseases	obstructive sleep apnoea
+cardiovascular diseases	iron-deficiency anaemia
+cardiovascular diseases	heart failures
+cardiovascular diseases	caffeic acid
+cardiovascular diseases	biventricular hypertrophy
+cardiovascular diseases	metabolic derangements
+cardiovascular diseases	refractory angina
+cardiovascular diseases	von willebrand disease
+cardiovascular diseases	carbohydrate antigen-125
+cardiovascular diseases	cardiac arrhythmias
+cardiovascular diseases	cardiac arrhythmia
+cardiac-disease	pedal edema
+cardiac-disease	interatrial shunts
+cardiac-disease	pulmonary oedema
+cardiac-disease	knee replacement
+coronary-artery disease	ruptured aneurysms
+coronary heart diseases	prehospital thrombolysis
+ischemic heart diseases	kawasaki 's disease
+ischemic heart diseases	acute myocardial infarctions
+ischemic heart diseases	myocardial ischemia
+ROOT	congestive heart failure
+coronary disease	rapid pacing
+coronary disease	takotsubo cardiomyopathy
+coronary disease	mitral commissurotomy
+coronary disease	clinical improvement
+coronary disease	contrast agents
+atrial fibrillations	atrioventricular nodal reentrant tachycardia
+ROOT	acute coronary syndromes
+ROOT	diabetes mellitus
+ROOT	atherosclerotic diseases
+atherosclerotic diseases	cerebral arteries
+atherosclerotic diseases	aortic stenosis
+atherosclerotic diseases	coronary artery dissection
+atherosclerotic diseases	carotid artery
+atherosclerotic diseases	coronary aneurysms
+atherosclerotic diseases	transradial coronary angiography
+atherosclerotic diseases	left main coronary artery
+atherosclerotic diseases	plaque growth
+ROOT	congenital heart diseases
+ROOT	hypertrophic cardiomyopathy
+ROOT	chronic heart failure
+ROOT	dilated cardiomyopathy
+ROOT	left-ventricular hypertrophy
+ROOT	cv disease
+cv disease	aortic regurgitation
+ROOT	pulmonary hypertension
+ROOT	metabolic syndrome
+ROOT	myocardial ischemia
+ROOT	infective endocarditis
+ROOT	coronary atherosclerosis
+coronary atherosclerosis	arterial anomalies
+coronary atherosclerosis	left coronary artery
+coronary atherosclerosis	soft plaques
+coronary atherosclerosis	edge dissections
+coronary atherosclerosis	chest trauma
+coronary atherosclerosis	organized thrombus
+coronary atherosclerosis	invasive coronary angiography
+coronary atherosclerosis	coronary artery
+coronary atherosclerosis	coronary angiography
