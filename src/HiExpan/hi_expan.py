@@ -1,5 +1,5 @@
 '''
-__author__: Jiaming Shen, Ellen Wu
+__author__: Jiaming Shen, Ellen Wu, Dongming Lei
 __description__: A python implementation of HiExpan v0.2 algorithm
 __latest_update__: 02/06/2018
 '''

@@ -1,0 +1,77 @@
+# Source Data 
+data/*.txt
+data/*.zip
+data/*.xml
+data/*.json
+data/*.rar
+data/**
+!data/README.md
+
+# Intermediate Data
+intermediate/**
+!intermediate/README.md
+
+# Experimental Folder
+experimental/**
+!experimental/README.md
+!experimental/parse_linked_results.py
+!experimental/linked_results_138.txt
+
+# Stanford CoreNLP files
+src/tools/CoreNLP/stanford-corenlp/
+
+# Autophrase Bin & Data
+src/tools/AutoPhrase/bin/
+src/tools/AutoPhrase/data/
+
+# word2vec Bin
+src/tools/word2vec/bin/
+
+# old preprocessing files
+src/dataProcessing
+src/corpusProcessing
+
+# others
+src/wikidata
+
+# Python Cache files
+*.pyc
+
+# PyCharm files 
+.idea
+
+# backup file
+*.*~
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
