@@ -59,3 +59,7 @@ cd $path
 
 echo ${green}===Running spaCy Feature Extraction ===${reset}
 python3 annotateNLPFeature.py $DATA 1 $THREAD
+python3 generateEntity2Id.py $DATA
+cd ../../data/$DATA/intermediate
+cp sentences.json sentences.json.raw
+#mv ../../data/$DATA/intermediate/sentences.json.spacy ../../data/$DATA/intermediate/sentences.json

@@ -145,7 +145,7 @@ if __name__ == "__main__":
     # res = p.get_probase_online("computer science")
     # print(res)
     corpusName = sys.argv[1]
-    json_file = input_phrase_file_path = "../../data/"+corpusName+"/intermediate/sentences.json.raw" # sentence.json.raw
+    json_file = input_phrase_file_path = "../../data/"+corpusName+"/intermediate/sentences.json" # sentence.json.raw
     save_file = input_phrase_file_path = "../../data/"+corpusName+"/intermediate/linked_results.txt"
     phrases = get_phrases(json_file)
     start = time.time()

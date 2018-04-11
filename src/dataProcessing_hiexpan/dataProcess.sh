@@ -93,6 +93,6 @@ fi
 # python getEmbFile.py $data 1
 
 # find eidPairDocumentLevelPPMI
-python3 extractEidDocPairs.py
+python3 extractEidDocPairs.py $data
 
 echo 'done'
