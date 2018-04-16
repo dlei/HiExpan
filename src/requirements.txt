@@ -4,4 +4,5 @@ numpy
 scipy
 inflection
 editdistance
+spacy
 
